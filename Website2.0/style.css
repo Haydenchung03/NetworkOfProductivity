@@ -1,3 +1,5 @@
+
+/* Background colours */
 .Main{
     background-color: rgb(255, 212, 96);
 }
@@ -6,8 +8,34 @@
     background-color: rgb(255, 212, 96);
 }
 
+.signup{
+    background-color: rgb(255, 212, 96);
+}
 
+
+
+/* Buttons */
 button{
     background-color: rgb(93, 99, 119);
-    color:rgb(255, 255, 255);
+    color:rgb(255, 212, 96);
+    width: 175px;
+    height: 35px;
+    z-index: 2;
+    position: absolute;
 }
+
+.playlistbtn{
+    top: 5%;
+    left: 17%;
+}
+
+.emailbtn{
+    top: 5%;
+    left: 35%;
+}
+
+.sign{
+    top: 5%;
+    left: 53%;
+}
+
