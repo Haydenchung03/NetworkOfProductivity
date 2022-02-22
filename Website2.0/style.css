@@ -12,6 +12,11 @@
     background-color: rgb(255, 212, 96);
 }
 
+.signup{
+    background-color: rgb(255, 212, 96);
+}
+
+
 
 
 /* Buttons */
@@ -22,6 +27,7 @@ button{
     height: 35px;
     z-index: 2;
     position: absolute;
+    border-radius: 10px;
 }
 
 .playlistbtn{
