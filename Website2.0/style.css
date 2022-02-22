@@ -38,6 +38,18 @@ button{
 
 }
 
+.submit{
+    background-color: white;
+    color: black;
+    width: 100px;
+    height: 20px;
+    position: absolute;
+}
+
+.submit:hover{
+    background-color: white;
+}
+
 button:hover{
     background-color: rgb(38, 41, 4);
     opacity: 0.75;
