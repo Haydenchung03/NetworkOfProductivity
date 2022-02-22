@@ -25,9 +25,13 @@ button{
     color:rgb(255, 212, 96);
     width: 175px;
     height: 35px;
-    z-index: 2;
     position: absolute;
     border-radius: 10px;
+
+}
+
+button:hover{
+    background-color: rgb(38, 41, 4);
 }
 
 .playlistbtn{
