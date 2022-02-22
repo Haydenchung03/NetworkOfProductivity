@@ -8,7 +8,7 @@
     background-color: rgb(255, 212, 96);
 }
 
-.signup{
+.login2{
     background-color: rgb(255, 212, 96);
 }
 
@@ -34,8 +34,14 @@ button{
     left: 35%;
 }
 
-.sign{
+.login1{
     top: 5%;
     left: 53%;
 }
 
+
+/* Text */
+
+.title{
+    text-align: center;
+}
