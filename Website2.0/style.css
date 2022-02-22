@@ -1,7 +1,13 @@
 .Main{
-    background-color:aqua;
+    background-color: rgb(255, 212, 96);
 }
 
 .playlist{
-    background-color: greenyellow;
+    background-color: rgb(255, 212, 96);
+}
+
+
+button{
+    background-color: rgb(93, 99, 119);
+    color:rgb(255, 255, 255);
 }
