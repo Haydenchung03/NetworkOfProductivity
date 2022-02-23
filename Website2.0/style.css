@@ -52,6 +52,7 @@ button{
 
 button:hover{
     background-color: rgb(38, 41, 4);
+    text-shadow: 0px 0px 0px white;
     opacity: 0.75;
 }
 
