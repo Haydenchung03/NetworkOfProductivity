@@ -12,13 +12,13 @@
 
 .login2{
     width: 99%;
-    height: 100vh;
+    height: 105vh;
     background-image: linear-gradient(white, rgb(93, 99, 119));
 }
 
 .signup{
     width: 99%;
-    height: 100vh;
+    height: 120vh;
     background-image: linear-gradient(white, rgb(93, 99, 119));
 }
 
@@ -65,16 +65,6 @@ button:active{
     left: 16%;
 }
 
-.login1{
-    top: 5%;
-    left: 64%;
-}
-
-.emailbtn{
-    top: 5%;
-    left: 80%;
-}
-
 .instagram{
     top: 5%;
     left: 32%;
@@ -83,6 +73,16 @@ button:active{
 .discord{
     top: 5%;
     left: 48%;
+}
+
+.emailbtn{
+    top: 5%;
+    left: 64%;
+}
+
+.login1{
+    top: 5%;
+    left: 80%;
 }
 
 
