@@ -1,33 +1,30 @@
-
 /* Background colours */
 .Main{
-    width: 100%;
+    width: 99%;
     height: 100vh;
     background-image: linear-gradient(white, rgb(93, 99, 119));
 }
-
 .playlist{
-    width: 100%;
+    width: 99%;
     height: 100vh;
     background-image: linear-gradient(white, rgb(93, 99, 119));
 }
 
 .login2{
-    width: 100%;
+    width: 99%;
     height: 100vh;
     background-image: linear-gradient(white, rgb(93, 99, 119));
 }
 
 .signup{
-    width: 100%;
+    width: 99%;
     height: 100vh;
     background-image: linear-gradient(white, rgb(93, 99, 119));
 }
 
 
 
-
-/* Buttons */
+/* Buttons settings*/
 button{
     background-color: rgb(93, 99, 119);
     color:rgb(255, 212, 96);
@@ -61,19 +58,21 @@ button:active{
     opacity: 0.5;
 }
 
+
+/* Button Position */
 .playlistbtn{
     top: 5%;
-    left: 17%;
-}
-
-.emailbtn{
-    top: 5%;
-    left: 35%;
+    left: 16%;
 }
 
 .login1{
     top: 5%;
-    left: 53%;
+    left: 64%;
+}
+
+.emailbtn{
+    top: 5%;
+    left: 80%;
 }
 
 
@@ -82,3 +81,4 @@ button:active{
 .title{
     text-align: center;
 }
+
